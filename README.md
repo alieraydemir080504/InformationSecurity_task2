@@ -35,3 +35,19 @@
 - A Subtechnique is nothing more than a more detailed version of a technique. It just specifies a technique in a slightly different approach/direction. E.g. under the technique "Compromise accounts" we have "Social Media Accounts" which as said before, the attacker executes actions in the name of the victim. But for this subtechnique it is specifically for social media, like purchasing/forcing credentails from 3rd party sites.
 
 - Procedures show  the different ways how attackers use their techniwues and subtechniques to reach their goal. E.g. for the subtechnique "Compromise Accounts: Social Media Accounts" the was the "Leviathan" which has breached social media accounts to conduct social engineering attacks or the "Sandstorm Team" who created credential capture webpages to manipulate existing, legitimate social media accounts.
+
+## Sources
+
+https://terokarvinen.com/information-security/#h2-kill-chain
+
+https://attack.mitre.org/matrices/enterprise/
+
+https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+
+https://attack.mitre.org/techniques/T1586/001/
+
+https://attack.mitre.org/techniques/T1586/
+
+https://attack.mitre.org/resources/faq/#general-faq
+
+https://attack.mitre.org/tactics/TA0004/
